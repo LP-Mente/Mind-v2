@@ -1,4 +1,0 @@
-Ué?
-Gfhc
-
-Supervtrsye iphone
