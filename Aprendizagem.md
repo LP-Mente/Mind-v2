@@ -1,7 +1,11 @@
- 
+-
+
+
+
+-
 # Método de Estudo
 ## Método Mac Gayver
-O Método é baseado na potencialização da conversa entre o Hipocampo, Amigdala e Córtex Pré-Frontal
+O Método é baseado na potencialização da conversa entre o [[Hipocampo]], [[Amigdala]] e [[Córtex]] Pré-Frontal
 ### Estímulos principais
 Córtex Pré-Frontal: memória, tomada de decisão
 Amígdala: Emoção e Comportamento
@@ -25,6 +29,25 @@ sinalizar as parte importantes e parte que não entende completamente.
 Para compreender se as palavras são o núcleo e esclarecer as dúvidas marcadas pode-se observar as seguintes dicas:
 1. Para os Núcleos: Caso eu retire-as do texto ele perde o sentido? Se sim estão corretas
 2. Pra as Perguntas: "Por que eu não entendi esses trechos que eu marquei". Então busque compreender o parágrafo
+
+**3º passo: fluxograma**
+	Pegar uma folha em branco
+	Escrever as palavras marcadas e liga-las como se fosse um fluxo interligando-as
+	**Deve ser feito a MÃO**
+
+A organização é o espelho da memória, ao organizar as palavras faça a seguinte pergunta:
+- Se eu fosse explicar isso pra alguém eu conseguiria explicar utilizando as palavras do fluxo
+	- Caso Sim: Reler o texto
+	- Caso Não: Pronto para o 4º passo
+
+**4° passo: verbalização**
+	4.1 - Word (opcional)
+		Consiste na organização de um roteiro
+	4.2 - Oratória
+		Explicar verbalmente 
+
+Você deve se colocar no lugar que pretende chegar, como se fosse uma palestra, explicando o assunto usando **todas as palavras do fluxo**
+
 
 O pensando na associação aumenta o trabalho do Córtex Pré-Frontal
 Esse caminho é aprimoramento do trabalho da memoria e curto prazo para encaminha-la a memoria de longo prazo
