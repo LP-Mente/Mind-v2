@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "d9a78875513744ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0095ee91eaff837",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52c23e53dcc8a4a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - Projetos/Rickson Fisio/Suporte Mova-se Bem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dca2ff993eac2cb6",
+    "type": "split",
+    "children": [
+      {
+        "id": "d460509a7b1ca9b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9e337b6f6753555",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5248cb54a477e700",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ae5bdd5ec12e764e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "a367d13c66140827",
+    "type": "split",
+    "children": [
+      {
+        "id": "40331f2198b5d6a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e3ae1247cfa6a32",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2 - Projetos/Rickson Fisio/Suporte Mova-se Bem.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2f2f70411ed39944",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2 - Projetos/Rickson Fisio/Suporte Mova-se Bem.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "106819006a52ef33",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1f367b6a2083a5a0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2 - Projetos/Rickson Fisio/Suporte Mova-se Bem.md"
+              }
+            }
+          },
+          {
+            "id": "58fb373187ff1d59",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "floating": {
+    "id": "3d3f41f3cc88f8bb",
+    "type": "floating",
+    "children": [
+      {
+        "id": "a3b12185172f1212",
+        "type": "window",
+        "children": [
+          {
+            "id": "bec57bc01c843e80",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e7a8418721feee59",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "1 - Recursos/Segurança da Informação/Tratamento de Incidentes.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1600,
+        "y": 0,
+        "width": 480,
+        "height": 860,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "52c23e53dcc8a4a1",
+  "lastOpenFiles": [
+    "1 - Recursos/Segurança da Informação/Tratamento de Incidentes.md",
+    "2 - Projetos/Rickson Fisio/Suporte Mova-se Bem.md",
+    "1 - Recursos/Segurança da Informação/Segurança da Informação.md",
+    "2 - Projetos/Rickson Fisio/12-09-24 Live Apresentação Mova-se Bem.md",
+    "1 - Recursos/Neurociência",
+    "1 - Recursos/Estudar",
+    "1 - Recursos/Estudar.md",
+    "2 - Projetos/teste pasta 2.md",
+    "1 - Recursos/Marketing",
+    "2 - Projetos/Rickson Fisio",
+    "1 - Recursos/Segurança da Informação",
+    "1 - Recursos/Marketing/Suporte de Vendas.md",
+    "2 - Projetos/Rickson Fisio/Projeto Rickson Fisio.md",
+    "ESR - Tratamento de Incidentes de Segurança.md",
+    "1 - Recursos/Estudar/Aprendizagem.md",
+    "1 - Recursos/Marketing/MARKETING.md",
+    "0 - Caixa de Entrada/Dicas Obsidian.md",
+    "1 - Recursos/Neurociência/GABA.md",
+    "Biblioteca.md",
+    "Manual de Boas Práticas.md",
+    "Rascunho.md",
+    "Julia Cameron.md",
+    "Professor de Automação.md",
+    "Untitled 1.md",
+    "Untitled 2.md",
+    "Untitled 3.md",
+    "1 - Recursos/Neurociência/Neurociência.md",
+    "2 - Projetos",
+    "1 - Recursos/teste pasta.md",
+    "1 - Recursos",
+    "1 - Reursos.rar",
+    "0 - Caixa de Entrada/Marketing.md",
+    "1 - Reursos"
+  ]
+}
