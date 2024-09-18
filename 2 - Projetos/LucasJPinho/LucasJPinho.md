@@ -10,4 +10,5 @@ Site:
 1. ADAPTA
 2. Escola de Automação
 3. Automação sem Limites
+[[Ideias e conteúdo analisado para Curso]]
 ## Rascunho de Ideias
