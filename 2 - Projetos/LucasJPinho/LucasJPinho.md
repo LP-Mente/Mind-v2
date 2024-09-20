@@ -12,3 +12,13 @@ Site:
 3. Automação sem Limites
 [[Ideias e conteúdo analisado para Curso]]
 ## Rascunho de Ideias
+Organização Inicial
+	Muita energia utilizada
+	Muitas integrações a serem feitas
+	Adaptação das Ideias para sua realidade
+	Início de um novo hábito
+
+Planejamento para reorganização também deve ser simplificado
+	Pensar se faz sentido manter o que tem
+	Alguma coisa precisar ser implementada
+	Alguma automação precisa ser simplificada

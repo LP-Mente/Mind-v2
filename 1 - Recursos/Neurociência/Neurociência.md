@@ -1,3 +1,3 @@
-
+[[Amígdala]]
 [[Hipocampo]]
 [[GABA]]

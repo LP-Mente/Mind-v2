@@ -1,0 +1,7 @@
+- [[Princípio da Prova Social (Social Proof)]]
+- [[Princípio da Autoridade]]
+- [[Princípio da Escassez (Scarcity Principle)]]
+- [[Princípio da Reciprocidade (Reciprocity Principle)]]
+- [[Princípio do Compromisso e Consistência (Commitment and Consistency)]]
+- [[Princípio do Agrado (Liking Principle)]]
+- [[Princípio da Urgência]]
