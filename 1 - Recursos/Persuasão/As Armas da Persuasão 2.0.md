@@ -1,6 +1,8 @@
 ---
 tags:
   - livro
+trello_plugin_note_id: cMowa5ZjxyYq9z1GFZJ61
+trello_board_card_id: 66f158935d2100cb0ed78e31;66f512d1d0ecca128eb58edc
 ---
 ## Capítulo 1 ARMAS DE INFLUÊNCIA: Ferramentas (poderosas) dos negócios
 [[Heurísticas de julgamento]]
