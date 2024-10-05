@@ -2,4 +2,4 @@
 [[Make(Integromat)]]
 
 [[Gestor de Automação]]
-B
+[[Idéias de Automação]]

@@ -18,6 +18,7 @@ Captação de LEADS
 - Leads Quentes
 - Leads Frios
 - Custo por cada um
+
 CAPTAÇÃO DIÁRIA DE LEAD
 Gráfico de barra por dia: cadastro x valor gasto, com custo por lead
 
