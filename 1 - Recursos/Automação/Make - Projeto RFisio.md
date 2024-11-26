@@ -5,6 +5,7 @@ Contato inicial com o cliente por diversos gatilhos possíveis, utilizando princ
 ## E-mail
 Envios para *e-mail de boas vindas*, *campanhas de lembrete*
 ## WhatsApp
+Envios para *campanha pós live*, *campanha de lembrete*
 # Facebook Insights & Google Ads Capaign
 Responsável pelo fornecimento de dados de *Campanha*, *Conjunto de Anúncio* e *Anúncios*
 [[Dashboard para Métricas]]
@@ -26,3 +27,10 @@ Responsável por *armazenar os dados*
 	- 
 # Google Looker Studio
 Responsável por *apresentar as informações de maneira fácil e organizada*
+# Automações
+## Fluxos
+### Fluxo de Recuperação de Vendas
+#### Fluxo de Abandono de Carrinho
+#### Fluxo de Reembolso
+### Fluxo de Vendas
+#### Fluxo Auxiliar de Vendas

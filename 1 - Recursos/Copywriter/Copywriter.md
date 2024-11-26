@@ -1,0 +1,1 @@
+Forma de escrita persuasiva e atrativa para determinados objetivos
